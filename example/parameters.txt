@@ -1,0 +1,3 @@
+otufile	plugins/CORNCOB/example/asv_abund.transpose.csv
+mapping	plugins/CORNCOB/example/asv_map.csv
+tree	plugins/CORNCOB/example/asv_tax.csv

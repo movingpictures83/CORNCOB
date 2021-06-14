@@ -1,0 +1,2 @@
+Prefix plugins/CORNCOB/example
+Plugin CORNCOB inputfile parameters.txt outputfile difftax
